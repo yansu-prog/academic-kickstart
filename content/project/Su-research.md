@@ -7,10 +7,5 @@ My research addresses these queries by delving into the network agenda-setting (
 
 Representative publications:
 
-[Su & Borah (2019) IAS effetcs between Twitter and newspapers]({{<relref "../publication/content/publication/su-2019-JITP.IAS/index.md">}})
+[Su, Y., & Borah, P. (2019). Who is the agenda setter? Examining the intermedia agenda-setting effect between Twitter and newspapers. Journal of Information Technology & Politics, 16(3), 236-249.]({{<relref "../publication/content/publication/su-2019-JITP.IAS/index.md">}})
 
-
-
-References
-
-Su, Y., & Borah, P. (2019). Who is the agenda setter? Examining the intermedia agenda-setting effect between Twitter and newspapers. Journal of Information Technology & Politics, 16(3), 236-249.
