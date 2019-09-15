@@ -1,9 +1,9 @@
 ---
-title: NAS and IAS
+title: Network & Intermedia Agenda-Setting
 ---
 I am interested in whether the traditional news media still have significant influence on the formation of public opinion in the digital age? How do emerging media revolutionize the media lanscape as well as individuals’ minds? The current ditigal age has generated new queries about the power of legacy and emerging media and their complex interactions.
 
-My research addresses these queries by delving into the network agenda-setting (NAS) effects (also known as the third-level agenda-setting) between media and the public, as well as the intermedia agenda-setting (IAS) effects between legacy and emerging media.
+My research addresses these queries by delving into the network agenda-setting (NAS), also known as the 3rd-level agenda-setting effects between media and the public, as well as the intermedia agenda-setting (IAS) effects between legacy and emerging media.
 
 Representative publications:
 
