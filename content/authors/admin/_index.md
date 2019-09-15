@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Yan Su currently works as a doctoral student at the College of Communication, Washington State University. Su has two lines of research. His first line of research involves the effects of communication factors on political participation and public opinion formation; Su's second line of study pertains to network and intermedia agenda-setting using big data and social network analysis.
+I am a doctoral student in the College of Communication, Washington State University. I have two lines of research interest. My first line of interest involves the effects of communication factors on political participation and public opinion formation; My second line of study pertains to network (third-level) and intermedia agenda-setting effects using big data and social network analysis.
