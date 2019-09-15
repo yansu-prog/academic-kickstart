@@ -6,6 +6,6 @@ publication_types: ["2"]
 featured: false
 publication: "*Global Media and China*"
 links:
-  - name: Source document
-  - url: 'https://journals.sagepub.com/doi/full/10.1177/2059436419866012'
+  - name: Document link
+    url: 'https://journals.sagepub.com/doi/full/10.1177/2059436419866012'
 ---
