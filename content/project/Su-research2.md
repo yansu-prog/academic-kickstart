@@ -7,11 +7,4 @@ In the past, I have endeavored to optimize the conventional Differential Gains M
 
 Representative publications:
 
-[Su & Xiao (2019) Differential Gains Model in Taiwan and South Korea]({{<relref "../publication/content/publication/su-2019-atlantic/index.md">}})
-
-
-
-
-References
-
-Su, Y., & Xiao, X. (2019). Beyond the differential gains model: the effects of authoritarian orientation, social media use, and political discussion on political participation in Taiwan and South Korea. Atlantic Journal of Communication, 1-16.
+[Su, Y., & Xiao, X. (2019). Beyond the differential gains model: the effects of authoritarian orientation, social media use, and political discussion on political participation in Taiwan and South Korea. Atlantic Journal of Communication, 1-16.]({{<relref "../publication/content/publication/su-2019-atlantic/index.md">}})
