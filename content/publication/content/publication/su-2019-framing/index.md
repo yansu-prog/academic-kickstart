@@ -5,4 +5,7 @@ authors: ["Yan Su", "Porismita Borah"]
 publication_types: ["2"]
 featured: false
 publication: "*International Communication Gazette*"
+links:
+  - name: Document link
+    url: 'https://journals.sagepub.com/doi/abs/10.1177/1748048519853765'
 ---
