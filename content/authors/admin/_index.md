@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Communication
     institution: Washington State University
-    year: ABD
+    year: 2021 (Expected)
   - course: MA in Emerging Media and Communication
     institution: University of Texas, Dallas
     year: 2016
