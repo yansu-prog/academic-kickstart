@@ -5,5 +5,6 @@ I am interested in whether the traditional news media still have significant inf
 
 Representative publications:
 
-[publication]({{<ref "publication/Su-2019-Frame/index.md">}})
+[publication]({{<relref "../publication/content/publication/su-2019-framing/index.md">}})
+
 Su, Y., & Borah, P. (2019). Who is the agenda setter? Examining the intermedia agenda-setting effect between Twitter and newspapers. Journal of Information Technology & Politics, 16(3), 236-249.
