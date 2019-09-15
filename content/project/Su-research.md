@@ -1,4 +1,4 @@
 ---
-draft: true
+title: research
 ---
 my research
