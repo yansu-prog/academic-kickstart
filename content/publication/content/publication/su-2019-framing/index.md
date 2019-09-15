@@ -1,8 +1,8 @@
 ---
-title: "Framing overseas Chinese students: A comparative analysis of newspaper coverage in mainland China, U.S., and Hong Kong"
+title: "Exploring the effect of Weibo opinion leaders on the dynamics of public opinion in China: A revisit of the two-step flow of communication"
 date: 2019-01-01
-authors: ["Yan Su", "Porismita Borah"]
+authors: ["Yan Su"]
 publication_types: ["2"]
 featured: false
-publication: "*International Communication Gazette*"
+publication: "*Global Media and China*"
 ---
