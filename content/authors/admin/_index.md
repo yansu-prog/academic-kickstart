@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral student in the College of Communication, Washington State University. I have two lines of research interest. My first line of interest involves the effects of communication factors on political participation and public opinion formation; My second line of study pertains to network (third-level) and intermedia agenda-setting effects using big data and social network analysis.
+I am a Ph.D. candidate in the College of Communication, Washington State University. I have two lines of research interest. My first line of interest involves the effects of communication factors on political participation and public opinion formation; My second line of study pertains to network (third-level) and intermedia agenda-setting effects using big data and social network analysis.
