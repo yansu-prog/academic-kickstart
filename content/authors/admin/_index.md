@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in the College of Communication, Washington State University. I have two lines of research interest. My first line of interest involves the effects of communication factors on political participation and public opinion formation; My second line of study pertains to network (third-level) and intermedia agenda-setting effects using big data and social network analysis.
+I am a Ph.D. candidate in the College of Communication at Washington State University. My research agenda focuses on digital journalism and its societal ramifications. The abrupt rise of social media has drastically revamped the media landscape and the ways in which people perceive the world. Central to my research agenda is the investigation of the impact of the emerging communication technologies on information production, dissemination, and audiences’ perceptions of reality. Specifically, using computational methodologies, my research examines how social media users discuss various issues at a networked level, and how such discussions reciprocate with traditional media’s agendas.  
