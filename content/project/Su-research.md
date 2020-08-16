@@ -7,5 +7,6 @@ My research addresses these queries by delving into the network agenda-setting (
 
 Representative publications:
 
+[Su, Y., & Hu, J. (2020). A territorial dispute or an agenda war? A cross-national investigation of the network agenda-setting (NAS) model. Journal of Information Technology & Politics, 1-19.]({{<relref "../publication/content/publication/su-2020-Diaoyu/index.md">}})
 [Su, Y., & Borah, P. (2019). Who is the agenda setter? Examining the intermedia agenda-setting effect between Twitter and newspapers. Journal of Information Technology & Politics, 16(3), 236-249.]({{<relref "../publication/content/publication/su-2019-JITP.IAS/index.md">}})
 
