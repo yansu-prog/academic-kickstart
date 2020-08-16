@@ -1,5 +1,5 @@
 ---
-title: Network & Intermedia Agenda-Setting
+title: NAS Model & Intermedia Agenda Setting
 ---
 I am interested in whether the traditional news media still have significant influence on the formation of public opinion in the digital age? How do emerging media revamp the media lanscape as well as individuals’ minds? The current ditigal age has generated new queries about the power of legacy and emerging media and their complex interactions.
 
