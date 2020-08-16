@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include network agenda-setting, intermedia agenda-setting, and political participation.
+bio: My research concerns network agenda-setting, intermedia agenda-setting, and political participation.
 
 interests:
 - Emerging Communication Technology
