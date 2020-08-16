@@ -8,6 +8,7 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
+# Optional header image (relative to Su.jpeg)
 header:
   caption: ""
   image: ""
