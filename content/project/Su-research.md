@@ -7,6 +7,8 @@ My research addresses these queries by examining the network agenda-setting (NAS
 
 Representative publications in this area:
 
+[Su, Y., & Xiao, X. (2020). From WeChat to “We set”: exploring the intermedia agenda-setting effects across WeChat public accounts, party newspaper and metropolitan newspapers in China. Chinese Journal of Communication, 1-19.]({{<relref "../publication/content/publication/su-2020-wechat/index.md">}})
+
 [Su, Y., Hu, J., Lee, D, K, L. (2020). Delineating the Transnational Network Agenda-Setting Model of Mainstream Newspapers and Twitter: A Machine-Learning Approach. Journalism Studies, 1-23.]({{<relref "../publication/content/publication/su-2020-JS/index.md">}})
 
 [Su, Y., & Hu, J. (2020). A territorial dispute or an agenda war? A cross-national investigation of the network agenda-setting (NAS) model. Journal of Information Technology & Politics, 1-19.]({{<relref "../publication/content/publication/su-2020-Diaoyu/index.md">}})
