@@ -11,7 +11,7 @@ Representative publications in this area:
 
 [Su, Y., Hu, J., Lee, D, K, L. (2020). Delineating the Transnational Network Agenda-Setting Model of Mainstream Newspapers and Twitter: A Machine-Learning Approach. Journalism Studies, 1-23.]({{<relref "../publication/content/publication/su-2020-JS/index.md">}})
 
-[Su, Y., & Hu, J. (2020). A territorial dispute or an agenda war? A cross-national investigation of the network agenda-setting (NAS) model. Journal of Information Technology & Politics, 1-19.]({{<relref "../publication/content/publication/su-2020-Diaoyu/index.md">}})
+[Su, Y., & Hu, J. (2020). A territorial dispute or an agenda war? A cross-national investigation of the network agenda-setting (NAS) model. Journal of Information Technology & Politics, 17(4),357-375.]({{<relref "../publication/content/publication/su-2020-Diaoyu/index.md">}})
 
 [Su, Y., & Borah, P. (2019). Who is the agenda setter? Examining the intermedia agenda-setting effect between Twitter and newspapers. Journal of Information Technology & Politics, 16(3), 236-249.]({{<relref "../publication/content/publication/su-2019-JITP.IAS/index.md">}})
 
