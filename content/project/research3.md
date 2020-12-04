@@ -5,4 +5,4 @@ I have been examining the dissemination pattern and mechanism of misinformation,
 
 Representative publications:
 
-[Su, Y., & Xiao, X. (2019). Beyond the differential gains model: the effects of authoritarian orientation, social media use, and political discussion on political participation in Taiwan and South Korea. Atlantic Journal of Communication, 1-16.]({{<relref "../publication/content/publication/su-2019-atlantic/index.md">}})
+[Su, Y. (2020). It Doesn’t Take a Village to Fall for Misinformation: Social media use, discussion heterogeneity preference, worry of the virus, faith in scientists, and COVID-19-related misinformation beliefs. https://doi.org/10.1016/j.tele.2020.101547.]({{<relref "../publication/content/publication/su-2020-TELE/index.md">}})
