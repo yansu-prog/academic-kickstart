@@ -1,7 +1,7 @@
 ---
 title: Media Coverage of My Research
 ---
-My studies have attracted the media attentions worldwide. Below are selected reports on my research from media in the United States, the United Kingdom, Canada, The Netherlands, Itlay, India, Pakistan and so forth:
+My studies have attracted the media attentions worldwide. Below are selected reports on my research from media outlets in the United States, the United Kingdom, Canada, The Netherlands, Itlay, India, Pakistan, and so forth:
 
 :
 
@@ -91,6 +91,7 @@ Sazke, S, E. (2020, December 14). Social media use increases belief in COVID-19 
 
 
 Other Features and Media Coverage
+
 :
 
 1.	O’Neill-Ciaciuch, E. (2020, September 21). Doctoral Candidate Researches Persuasive Power of Communication Technologies. Graduate School, Washington State University. Retrieved from: https://gradschool.wsu.edu/yans-story/ 
