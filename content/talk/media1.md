@@ -3,14 +3,14 @@ title: Media Coverage of My Research
 ---
 My studies have attracted the media attentions worldwide. Below are selected reports on my research from media in the United States, the United Kingdom, Canada, The Netherlands, Itlay, India, Pakistan and so forth:
 
-:
 
-[Su, Y. (2020). It Doesn’t Take a Village to Fall for Misinformation: Social media use, discussion heterogeneity preference, worry of the virus, faith in scientists, and COVID-19-related misinformation beliefs. https://doi.org/10.1016/j.tele.2020.101547.]({{<relref "../publication/content/publication/su-2020-TELE/index.md">}})
 
 ·NBC News (NBC Right Now)
+
 NBC News. (2020, December 14). WSU Study finds social media use increases belief in COVID-19 misinformation. NBC Right Now. Retrieved from: https://www.nbcrightnow.com/news/wsu-study-finds-social-media-use-increases-belief-in-covid-19-misinformation/article_a2539a98-3e4c-11eb-a9bd-97f07110422c.html 
 
 ·U.S. News & World Report
+
 Murez, C. (2020, December 18). As Social Media Use Rises, So Does Belief in COVID Misinformation. U.S. News & World Report. Retrieved from https://www.usnews.com/news/health-news/articles/2020-12-18/as-social-media-use-rises-so-does-belief-in-covid-misinformation
 
 ·Yahoo! 
