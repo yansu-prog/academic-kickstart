@@ -24,7 +24,7 @@
   weight = 30
 
 [[main]]
-  name = "Talks"
+  name = "Media Spotlight"
   url = "#talks"
   weight = 50
 
