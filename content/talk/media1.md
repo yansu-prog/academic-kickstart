@@ -74,6 +74,10 @@ Awasthi, P. (2020, December 14). Covid-19 stress levels drive your belief in soc
 
 Telagana Today. (2020, December 14). Study finds social media use increases belief in Covid-19 misinformation. Telagana Today. Retrieved from: https://telanganatoday.com/study-finds-social-media-use-increases-belief-in-covid-19-misinformation 
 
+「Mint」(India)
+
+Mint. (2020, December 14). Social media use increases belief in Covid-19 misinformation: Study. Mint. Retrieved from: https://www.livemint.com/news/world/social-media-use-increases-belief-in-covid-19-misinformation-study-11607928907848.html
+
 「Pakistan Point News」
 
 Irfan, M. (2020, December 14). Social Media Use Ups Belief In Covid-19 Misinformation: Study. Pakistan Point News. Retrieved from: https://www.urdupoint.com/en/pakistan/social-media-use-ups-belief-in-covid-19-misin-1113697.html 
@@ -87,7 +91,10 @@ The Statesman. (2020, December 18). Social media use ups belief in Covid-19 misi
 SME Times. (2020, December 14). Social media use ups belief in Covid-19 misinformation: Study. SME Times. Retrieved from: http://www.smetimes.in/smetimes/news/global-business/2020/Dec/14/social-media-covid55064.html 
 
 「WSU Insider」
+
 Sazke, S, E. (2020, December 14). Social media use increases belief in COVID-19 misinformation. WSU Insider. Retrieved from: https://news.wsu.edu/2020/12/14/social-media-use-increases-belief-covid-19-misinformation/
+
+
 
 
 Other Features and Media Coverage
