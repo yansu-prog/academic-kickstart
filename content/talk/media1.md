@@ -18,6 +18,7 @@ Murez, C. (2020, December 18). As Social Media Use Rises, So Does Belief in COVI
 Ani. (2020, December 14). Study finds social media use increases belief in Covid-19 misinformation. Yahoo!. Retrieved from: https://in.style.yahoo.com/study-finds-social-media-increases-062534691.html 
 
 「Moscow-Pullman Daily News」
+
 Jackson, S. (2020, December 18). Study: Social media is fertile ground for misinformation. WSU researcher finds link between social media use and belief in COVID-19 conspiracy theories. Moscow-Pullman Daily News. Retrieved from https://dnews.com/coronavirus/study-social-media-is-fertile-ground-for-misinformation/article_fbb81363-d653-5f41-9640-211e11d0b417.html
 
 「Health Day」
@@ -29,6 +30,7 @@ Health Day News. (2020, December 1u). As Social Media Use Rises, So Does Belief 
 Mental Daily. (2020, December 18). Social Media Plays A Major Role In Believing COVID-19 Misinformation. Mental Daily. Retrieved from: https://www.mentaldaily.com/article/2020/12/social-media-plays-a-major-role-in-believing-covid-19-misinformation
 
 「Consumer Affairs」
+
 Dalli, K. (2020, December 14). More social media use increases belief in misinformation about COVID-19, study finds. Consumer Affairs. Retrieved from: https://www.consumeraffairs.com/news/more-social-media-use-increases-belief-in-misinformation-about-covid-19-study-finds-121420.html 
 
 「Internazionale」 (Italy)
@@ -88,7 +90,8 @@ SME Times. (2020, December 14). Social media use ups belief in Covid-19 misinfor
 Sazke, S, E. (2020, December 14). Social media use increases belief in COVID-19 misinformation. WSU Insider. Retrieved from: https://news.wsu.edu/2020/12/14/social-media-use-increases-belief-covid-19-misinformation/
 
 
-Other Features and Media Coverage:
+Other Features and Media Coverage
+:
 
 1.	O’Neill-Ciaciuch, E. (2020, September 21). Doctoral Candidate Researches Persuasive Power of Communication Technologies. Graduate School, Washington State University. Retrieved from: https://gradschool.wsu.edu/yans-story/ 
 2.	Raney, W. (2019, September 9). Murrow College graduate students honored. WSU Insider. Retrieved from: https://news.wsu.edu/2019/09/09/murrow-college-graduate-students-honored/
