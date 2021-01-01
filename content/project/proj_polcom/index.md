@@ -7,6 +7,6 @@ I have endeavored to optimize the conventional Differential Gains Model by incor
 
 Representative publications:
 
-[Su, Y., & Lee, D, K, L., & Borah, P. (2021). The Conditional Indirect Effects of Political Social Media Information Seeking and Expression on Government Evaluation in Hong Kong: Revisiting the Communication Mediation Model. International Journal of Communication, 5, 1-16.]({{<relref "../publication/content/publication/su-ijoc-2021/index.md">}})
+[Su, Y., & Lee, D, K, L., & Borah, P. (2021). The Conditional Indirect Effects of Political Social Media Information Seeking and Expression on Government Evaluation in Hong Kong: Revisiting the Communication Mediation Model. International Journal of Communication, 5, 277-299.]({{<relref "../publication/content/publication/su-ijoc-2021/index.md">}})
 
 [Su, Y., & Xiao, X. (2020). Beyond the differential gains model: the effects of authoritarian orientation, social media use, and political discussion on political participation in Taiwan and South Korea. Atlantic Journal of Communication, 28(4), 241-256.]({{<relref "../publication/content/publication/su-2019-atlantic/index.md">}})
