@@ -21,11 +21,12 @@ organizations:
 bio: My research concerns network agenda-setting, intermedia agenda-setting, and political participation.
 
 interests:
-- Emerging Communication Technology
 - Network Agenda-Setting
 - Intermedia Agenda-Setting
-- Misinformation and Misperceptions
+- Misinformation
 - Political Communication
+- Science Communication
+- Computational Social Sciences
 
 education:
   courses:
