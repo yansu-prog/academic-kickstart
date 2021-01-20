@@ -9,6 +9,8 @@ My research tackles these queries through examining the network agenda-setting (
 
 Representative publications in this area:
 
+[Su, Y., & Xiao, X. (2021). Mapping the intermedia agenda setting (IAS) literature: Current trajectories and future directions. The Agenda Setting Journal, 1-28.]({{<relref "../publication/content/publication/su-2021-sysreview/index.md">}})
+
 [Su, Y., & Xiao, X. (2020). From WeChat to “We set”: exploring the intermedia agenda-setting effects across WeChat public accounts, party newspaper and metropolitan newspapers in China. Chinese Journal of Communication, 1-19.]({{<relref "../publication/content/publication/su-2020-wechat/index.md">}})
 
 [Su, Y., Hu, J., Lee, D, K, L. (2020). Delineating the Transnational Network Agenda-Setting Model of Mainstream Newspapers and Twitter: A Machine-Learning Approach. Journalism Studies, 12(15), 2113-2134.]({{<relref "../publication/content/publication/su-2020-JS/index.md">}})
@@ -16,4 +18,5 @@ Representative publications in this area:
 [Su, Y., & Hu, J. (2020). A territorial dispute or an agenda war? A cross-national investigation of the network agenda-setting (NAS) model. Journal of Information Technology & Politics, 17(4),357-375.]({{<relref "../publication/content/publication/su-2020-Diaoyu/index.md">}})
 
 [Su, Y., & Borah, P. (2019). Who is the agenda setter? Examining the intermedia agenda-setting effect between Twitter and newspapers. Journal of Information Technology & Politics, 16(3), 236-249.]({{<relref "../publication/content/publication/su-2019-JITP.IAS/index.md">}})
+
 
