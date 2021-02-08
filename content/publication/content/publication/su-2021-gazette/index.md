@@ -1,6 +1,6 @@
 ---
 title: "Interacting effects of political social media use, political discussion and political trust on civic engagement: Extending the differential gains model"
-date: 2019-07-13
+date: 2021-02-08
 authors: ["Yan Su", "Xizhu Xiao"]
 publication_types: ["2"]
 featured: false
