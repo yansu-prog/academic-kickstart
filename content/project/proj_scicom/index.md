@@ -7,3 +7,6 @@ My recent studies in science communication revolve two lines: 1) Media represent
 
 I have been performing experiments, survey research, media content analyses and focus group interviews in addressing the above queries.
 
+Representative publications:
+
+[Su, Y. & Hu, J. (2021). How did the top two greenhouse gas emitters depict climate change? A comparative analysis of the Chinese and US media. Public Understanding of Science. 1-17. https://doi.org/10.1177/0963662521990846.]({{<relref "../publication/content/publication/su-2021-ccca/index.md">}})
