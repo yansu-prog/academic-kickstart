@@ -24,15 +24,13 @@ interests:
 - Network Agenda-Setting
 - Intermedia Agenda-Setting
 - Misinformation
-- Political Communication
 - Science Communication
-- Computational Social Sciences
 
 education:
   courses:
   - course: PhD in Communication
     institution: Washington State University
-    year: 2021 (Expected)
+    year: 2021 
   - course: MA in Emerging Media and Communication
     institution: University of Texas, Dallas
     year: 2016
@@ -73,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in the College of Communication at Washington State University. My research agenda focuses on digital journalism and its societal ramifications. The abrupt rise of social media has drastically revamped the media landscape and the ways in which people perceive the world. Central to my research agenda is the investigation of the impact of the emerging communication technologies on information production, dissemination, and audiences’ perceptions of reality. Specifically, using computational methodologies, my research orbits the queries as to how social media users discuss various issues at a networked level, and how such discussions reciprocate with traditional media’s agendas.  
+I am a tenure-track Assistant Professor in the School of Journalism & Communication at Peking University. My research orbits digital journalism and its societal ramifications. The abrupt rise of social media has drastically revamped the media landscape and the ways in which people perceive the world. Central to my research agenda is the investigation of the impact of the emerging communication technologies on information production, dissemination, and audiences’ perceptions of reality. Specifically, using computational methodologies, my research orbits the queries as to how social media users discuss various issues at a networked level, and how such discussions reciprocate with traditional media’s agendas.  
