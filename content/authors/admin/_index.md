@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Washington State University
+- name: Peking University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
