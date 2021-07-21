@@ -15,6 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Peking University
+- name: 北京大学助理教授
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
