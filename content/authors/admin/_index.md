@@ -21,10 +21,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research concerns network agenda-setting, intermedia agenda-setting, and political participation.
 
-interests:
-- Network Agenda-Setting
+interests: 
+- Network Agenda-Setting Model
 - Intermedia Agenda-Setting
 - Misinformation
+- Health Communication
 - Science Communication
 
 education:
