@@ -16,7 +16,7 @@ role: Assistant Professor
 organizations:
 - name: Peking University
 - name: 北京大学助理教授 苏岩
-  url: ""
+  url: "https://sjc.pku.edu.cn/info/1130/11734.htm"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research concerns network agenda-setting, intermedia agenda-setting, and political participation.
