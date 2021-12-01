@@ -9,6 +9,8 @@ Against this backdrop, I have been examining the dissemination pattern and mecha
 
 Representative publications:
 
+[Su, Y., Lee, D,K,L., & Xiao, X. (2022). “I enjoy thinking critically, and I'm in control”: Examining the influences of media literacy factors on misperceptions amidst the COVID-19 infodemic. https://www.sciencedirect.com/science/article/pii/S0747563221004349]({{<relref "../publication/content/publication/su,lee,xiao-chb-2022/index.md">}})
+
 [Xiao, X. & Su, Y (2021). Integrating Reasoned Action Approach and Message Sidedness in the Era of Misinformation: The Case of HPV Vaccination Promotion. Journal of Health Communication. https://doi.org/10.1080/10810730.2021.1950873.]({{<relref "../publication/content/publication/xiao&su-johc/index.md">}})
 
 [Xiao, X., Borah, P., & Su, Y (2021). The dangers of blind trust: Examining the interplay among social media news use, misinformation identification, and news trust on conspiracy beliefs. Public Understanding of Science. https://doi.org/10.1177/0963662521998025.]({{<relref "../publication/content/publication/xiaoetal-2021-pus/index.md">}})
