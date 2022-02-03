@@ -1,6 +1,6 @@
 ---
 title: "Incidental news exposure and COVID-19 misperceptions: A moderated-mediation model"
-date: 2022-03
+date: 2022-04-01
 authors: ["Porismita Borah", "Yan Su", "Xizhu Xiao", "Danielle Ka Lai Lee"]
 publication_types: ["2"]
 featured: false
