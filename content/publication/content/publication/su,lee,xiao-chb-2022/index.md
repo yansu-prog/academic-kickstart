@@ -1,6 +1,6 @@
 ---
 title: "“I enjoy thinking critically, and I’m in control”: Examining the influences of media literacy factors on misperceptions amidst the COVID-19 infodemic"
-date: 2022-03
+date: 2022-03-01
 authors: ["Yan Su", "Danielle Ka Lai Lee", "Xizhu Xiao"]
 publication_types: ["2"]
 featured: false
