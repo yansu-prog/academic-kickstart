@@ -25,8 +25,7 @@ interests:
 - Network Agenda-Setting Model
 - Intermedia Agenda-Setting
 - Misinformation
-- Health Communication
-- Science Communication
+- Computational Social Science
 
 education:
   courses:
