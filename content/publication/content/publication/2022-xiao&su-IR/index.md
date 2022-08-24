@@ -7,5 +7,5 @@ featured: false
 publication: "*Internet Research*"
 links:
   - name: Document link
-    url: '[https://www.emerald.com/insight/content/doi/10.1108/INTR-10-2021-0791/full/html]'
+    url: '[https://doi.org/10.1108/INTR-10-2021-0791]'
 ---
