@@ -7,5 +7,5 @@ featured: false
 publication: "*Current Psychology*"
 links:
   - name: Document link
-    url: '[https://link.springer.com/article/10.1007/s12144-022-03772-x]'
+    url: 'https://link.springer.com/article/10.1007/s12144-022-03772-x'
 ---
