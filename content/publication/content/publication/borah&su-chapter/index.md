@@ -1,6 +1,6 @@
 ---
 title: "Agenda-setting research in the age of social media"
-date: 2022-10-4
+date: 2022-10-04
 authors: ["Porismita Borah","Yan Su"]
 publication_types: ["2"]
 featured: false
