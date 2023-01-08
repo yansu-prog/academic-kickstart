@@ -7,5 +7,5 @@ featured: false
 publication: "*Elgar Encyclopedia of Technology and Politics*"
 links:
   - name: Document link
-    url: '[https://www.elgaronline.com/display/book/9781800374263/b-9781800374263.agenda.setting.borah.su.xml]'
+    url: 'https://www.elgaronline.com/display/book/9781800374263/b-9781800374263.agenda.setting.borah.su.xml'
 ---
