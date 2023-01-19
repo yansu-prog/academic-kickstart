@@ -81,7 +81,7 @@ I am an Assistant Professor in the School of Journalism & Communication at Pekin
 
 自2021年8月入职北京大学以来，我承担多门课程的教学工作，执教了包括《传媒伦理与法律法规》、《新媒介社会学》、《新兴传播技术研究专题》、《新闻与传播研究生学术实践前沿工作坊》、《健康传播前沿探讨》、《健康传播学研究：理论与方法》在内的博士研究生、硕士研究生与本科生课程。
 
-在科研、教学工作之外，我也致力于学术与社会服务性工作。我担任Frontier in Communication特刊编辑，任SSCI传播学知名期刊Chinese Journal of Communication编辑顾问委员会委员，为30余份同行评议期刊担任审稿人，并为ICA、AEJMC等传播学顶尖国际会议担任评议人、主持人、审稿人。
+在科研、教学工作之外，我也致力于学术与社会服务性工作。我担任Frontiers in Communication特刊客座编辑，任传播学知名期刊Chinese Journal of Communication编辑顾问委员会委员（2023-2027），受邀为30余份同行评议期刊担任审稿人，并为ICA、AEJMC等传播学顶尖国际会议担任评议人、主持人、审稿人。
 
 
 【博士招生方向】新兴传播技术、数字媒介效果、健康传播。
