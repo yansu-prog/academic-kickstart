@@ -7,5 +7,5 @@ featured: false
 publication: "*American Journal of Health Promotion*"
 links:
   - name: Document link
-    url: '[https://journals.sagepub.com/doi/abs/10.1177/08901171231184075]'
+    url: 'https://journals.sagepub.com/doi/abs/10.1177/08901171231184075'
 ---
