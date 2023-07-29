@@ -74,4 +74,3 @@ user_groups:
 
 I am an Assistant Professor in the School of Journalism & Communication at Peking University, China. I am also the vice director of PKU's Health Communication Master's Program. My research focuses on the application of media effects theories in the digital context, emerging communication technologies, and computational social sciences. Recently, I have been focusing on the relationships between social media messages and health perceptions, attitudes, and behaviors, as well as the network and intermedia agenda setting effects across legacy and social media. I have won  six Top Paper Awards from AEJMC among other awards. Apart from research and teaching, I am also committed to scholarly and social services. In my spare time, I am a big fan of skyfaring and spontaneous trips. 
 
-苏岩，北京大学新闻与传播学院助理教授、博士生导师，健康传播硕士项目副主任。
